@@ -4,8 +4,8 @@
       <v-container fill-height>
         <v-row align="center" justify="center">
           <v-col class="text-center">
-            <h1>Emily Carlsen</h1>
-            <h4>Coming soon.</h4>
+            <h1 class="name">Emily Carlsen</h1>
+            <h4 class="subtitle">Coming soon.</h4>
           </v-col>
         </v-row>
       </v-container>
@@ -30,7 +30,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-body {
+.v-main {
   background: #b3e5fc;
+}
+.name {
+  font-size: 4em;
+}
+.subtitle {
+  font-size: 1.4em;
 }
 </style>
