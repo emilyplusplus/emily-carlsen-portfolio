@@ -17,6 +17,8 @@
                 <v-btn target="_blank" href="https://www.linkedin.com/in/emilyplusplus/" icon><v-icon>mdi-linkedin</v-icon></v-btn>
                 <v-btn target="_blank" href="https://repl.it/@EmilyCarlsen" icon><v-icon>mdi-code-braces-box</v-icon></v-btn>
                 <v-btn target="_blank" href="emilyplusplus.wordpress.com" icon><v-icon>mdi-wordpress</v-icon></v-btn>
+                <v-btn target="_blank" href="https://anchor.fm/bluepinkwhitepinkblue" icon><v-icon>mdi-microphone</v-icon></v-btn>
+                
               </v-col>
             </v-row>
             <v-row>
